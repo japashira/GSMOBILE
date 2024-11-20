@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543815345020",
+    "project_id": "gsmobile-bb1bd",
+    "storage_bucket": "gsmobile-bb1bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543815345020:android:5556bbd4e8e88778337af9",
+        "android_client_info": {
+          "package_name": "com.example.gsmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaoSQIas0DX7KxCWe-FiwU-HOJPaFFs24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
